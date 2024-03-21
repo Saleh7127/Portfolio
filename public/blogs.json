@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Graph Neural Networks on Social Networks",
+      "category": "API",
+      "date": "January 07, 2022",
+      "image": "/images/gnn.png",
+      "link": "https://colab.research.google.com/drive/1MF3OWD1VeM4EZBQfr5Py1prTNdEldNFC?usp=sharing",
+      "description": "A graph neural network for predicting developer categories based on GitHub user's data."
+    },
+    {
+      "title": "Exploratory Data Analysis",
+      "category": "Data Analysis",
+      "date": "April 16, 2021",
+      "image": "/images/netflix.jpeg",
+      "link": "https://github.com/Saleh7127/Netflix-Data-analysis",
+      "description": "Exploratory Data Analysis on Netflix Dataset to evaluate the pattern and extract relevant information."
+    },
+    {
+      "title": "TAKE-OFF Programming Contest, Fall 2022 Solution",
+      "category": "Problem Solution",
+      "date": " May 27, 2023",
+      "image": "/images/takeoff.jpeg",
+      "link": "https://github.com/Saleh7127/TAKE-OFF-Programming-Contest-FALL-2022-Solution",
+      "description": "Editorial of the Take-OFF Fall 2022, all problem solutions are available here including detailed explanation."
+    },
+    {
+      "title": "Kubernetes Extended API Server",
+      "category": "API",
+      "date": "July 20, 2023",
+      "image": "/images/k8s.png",
+      "link": "https://github.com/Saleh7127/k8s-extended-apiserver",
+      "description": "Kubernetes Extended APIServer using net/http library Resource, Here, custom resource were aggregated and configured."
+    },
+    {
+      "title": "CPP Solution",
+      "category": "Problem Solution",
+      "date": "January 01, 2020",
+      "image": "/images/cpp.png",
+      "link": "https://pastebin.com/u/Saleh127",
+      "description": "Different online judges problems solutions are avialble here, most of the the solutions are written in C++."
+    }
+  ]
+  

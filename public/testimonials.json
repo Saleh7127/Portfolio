@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Erasmus Mundus Scholarship",
+      "avatar": "/images/ediss.png",
+      "testimonial": "Got Erasmus Mundus Joint Master Degree (EMJMD) scholarship on EDISS."
+    },
+    {
+      "name": "DIU Merit Based Academic Scholarship",
+      "avatar": "/images/diucse.jpeg",
+      "testimonial": "Tution fee waived for excellent academic results."
+    },
+    {
+      "name": "HSC Dhaka Education Board Scholarship",
+      "avatar": "/images/dhaka.avif",
+      "testimonial": "Awarded Higher Secondary Certificate scholarship from Dhaka Board."
+    },
+    {
+      "name": "SSC Dhaka Education Board Scholarship",
+      "avatar": "/images/comilla.jpeg",
+      "testimonial": "Received Secondary School Certificate scholarship from Cumilla Board."
+    }
+  ]
+  
