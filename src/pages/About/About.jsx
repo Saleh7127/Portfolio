@@ -61,8 +61,7 @@ const About = () => {
 
       <section className="about-text">
         <p>
-          I, Abu Saleh, am currently pursuing an EMJMD in Engineering of Data-Intensive Intelligent Software Systems. As part of my Data-Intensive course, I am working on a collaborative project with a Finnish company. From May 2023 to April 2024, I worked as a software engineer, gaining industry experience in full-stack software development using technologies such as ReactJS, Django Rest Framework, and SQLAlchemy. I have a strong interest in competitive programming and problem-solving, and I enjoy participating in programming contests. To date, I have taken part in over 300 online and onsite programming competitions, including ICPC, Google Code Jam, and Meta Hacker Cup. I am always eager to learn new things and improve my skills.ts, including
-          ICPC, Google Code Jam, and Meta Hacker Cup.
+          I, Abu Saleh, am currently pursuing an EMJMD in Engineering of Data-Intensive Intelligent Software Systems. As part of my Data-Intensive course, I am working on a collaborative project with a Finnish company. From May 2023 to April 2024, I worked as a software engineer, gaining industry experience in full-stack software development using technologies such as ReactJS, Django Rest Framework, and SQLAlchemy. I have a strong interest in competitive programming and problem-solving, and I enjoy participating in programming contests. To date, I have taken part in over 300 online and onsite programming competitions, including ICPC, Google Code Jam, and Meta Hacker Cup. I am always eager to learn new things and improve my skills. I love number 7 and 19.
         </p>
       </section>
 
