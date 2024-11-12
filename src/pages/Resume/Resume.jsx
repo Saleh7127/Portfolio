@@ -20,7 +20,7 @@ const Resume = () => {
         <ol className="timeline-list">
           <TimelineItem
             title="Full-Stack Software Engineer, Enosis Solutions"
-            date="September 2023 — Present"
+            date="September 2023 — April 2024"
             description={
               <div>
                 <p>
@@ -83,6 +83,11 @@ const Resume = () => {
           <h3 className="h3">Education</h3>
         </div>
         <ol className="timeline-list">
+          <TimelineItem
+            title="Åbo Akademi University"
+            date="2024 - Present"
+            description="EMJMD on the Engineering of Data-intensive Intelligent Software Systems"
+          />
           <TimelineItem
             title="Daffodil International University"
             date="2019 — 2023"
