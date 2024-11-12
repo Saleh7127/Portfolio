@@ -27,7 +27,7 @@ const servicesData = [
     icon: "/images/higheredu.png",
     title: "Higher Study",
     description:
-      "Getting ready for my Joint Master's Degree Programme on the Engineering of Data-intensive Intelligent Software Systems.",
+      "Pursuing my Joint Master's Degree Programme on the Engineering of Data-intensive Intelligent Software Systems.",
   },
   {
     icon: "/images/mentoring.jpeg",
@@ -61,14 +61,7 @@ const About = () => {
 
       <section className="about-text">
         <p>
-          I, Abu Saleh, have completed my Bachelor's degree in Computer Science
-          and Engineering from Daffodil International University. I have been
-          working as a software engineer since May 2023, and my industry
-          experience includes full-stack software development using ReactJS,
-          Django Rest Framework, and SQLAlchemy. My interests lie in competitive
-          programming and problem-solving. I enjoy participating in programming
-          contests and always strive to learn new things. To date, I have taken
-          part in over 300 online and onsite programming contests, including
+          I, Abu Saleh, am currently pursuing an EMJMD in Engineering of Data-Intensive Intelligent Software Systems. As part of my Data-Intensive course, I am working on a collaborative project with a Finnish company. From May 2023 to April 2024, I worked as a software engineer, gaining industry experience in full-stack software development using technologies such as ReactJS, Django Rest Framework, and SQLAlchemy. I have a strong interest in competitive programming and problem-solving, and I enjoy participating in programming contests. To date, I have taken part in over 300 online and onsite programming competitions, including ICPC, Google Code Jam, and Meta Hacker Cup. I am always eager to learn new things and improve my skills.ts, including
           ICPC, Google Code Jam, and Meta Hacker Cup.
         </p>
       </section>
