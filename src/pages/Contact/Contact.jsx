@@ -34,7 +34,8 @@ const Contact = () => {
       <section className="mapbox" data-mapbox>
         <figure>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1567.5176496944282!2d90.34783275348188!3d23.82858998731663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1710965377954!5m2!1sen!2sbd"
+           
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1918.229446228687!2d22.286710976919768!3d60.46354701972169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468c768d54d4bb07%3A0x17ed47c76b4f411b!2s11C%2C%20Yo-kyl%C3%A4%2011C%2C%2020540%20Turku!5e1!3m2!1sen!2sfi!4v1731454534332!5m2!1sen!2sfi"
             width="400"
             height="300"
             loading="lazy"
