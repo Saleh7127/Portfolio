@@ -59,7 +59,7 @@ const Aside = () => {
               <p className="contact-title">Phone</p>
 
               <a href="tel:+12133522795" className="contact-link">
-                +88 01627 348586
+                +358 0465839099
               </a>
             </div>
           </li>
@@ -85,7 +85,7 @@ const Aside = () => {
             <div className="contact-info">
               <p className="contact-title">Location</p>
 
-              <address>Dhaka, Bangladesh</address>
+              <address>Turku, Finland</address>
             </div>
           </li>
         </ul>
